@@ -1,1 +1,1 @@
-readme on objects scopes closures
+JAVASCRIPT README ON OBJECTS_SCOPES_CLOSURES
